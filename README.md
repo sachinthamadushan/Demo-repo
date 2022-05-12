@@ -1,2 +1,3 @@
 # Demo-repo
-Some small description 
+Some small description
+About new git
